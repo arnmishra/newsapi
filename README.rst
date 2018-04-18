@@ -51,7 +51,7 @@ All methods of ``Articles`` are accessible via:
 
 .. code-block:: python
 
-   from newsapi.articles import articles
+   from newsapi.articles import Articles
 
    a = Articles(API_KEY="Your-api-key")
 
